@@ -1,0 +1,63 @@
+[
+  {
+    "id": "idx_001",
+    "category_name": "Stocking Stuffers",
+    "image": "/images/home/categoryOne.webp",
+    "items_visible": [
+      "Cigar cutters",
+      "Lighter",
+      "Green stocking",
+      "Accessories"
+    ],
+    "link": "/shop/stocking-stuffers"
+  },
+  {
+    "id": "idx_002",
+    "category_name": "Christmas Tasting Packs",
+    "image": "/images/home/categoryTwo.webp",
+    "items_visible": ["Branded tasting boxes"],
+    "link": "/shop/christmas-tasting-packs"
+  },
+  {
+    "id": "idx_003",
+    "category_name": "Gifts Under $250",
+    "image": "/images/home/categoryThree.webp",
+    "items_visible": ["Luxury gift boxes with green ribbon"],
+    "link": "/shop/gifts-under-250"
+  },
+  {
+    "id": "idx_004",
+    "category_name": "Gifts Under $500",
+    "image": "/images/home/categoryThree.webp",
+    "items_visible": ["Large luxury gift box with ribbon"],
+    "link": "/shop/gifts-under-500"
+  },
+  {
+    "id": "idx_005",
+    "category_name": "Gifts Under $1000",
+    "image": "/images/home/categoryThree.webp",
+    "items_visible": ["Premium gift set box"],
+    "link": "/shop/gifts-under-1000"
+  },
+  {
+    "id": "idx_006",
+    "category_name": "Lifestyle",
+    "image": "/images/home/categorySix.webp",
+    "items_visible": ["Green cap", "Red coffee table book"],
+    "link": "/shop/lifestyle"
+  },
+  {
+    "id": "idx_007",
+    "category_name": "Luxury Accessories",
+    "image": "/images/home/categorySeven.webp",
+    "items_visible": ["Wooden humidor", "Gold-plated lighters"],
+    "link": "/shop/luxury-accessories"
+  },
+  {
+    "id": "idx_008",
+    "category_name": "Rare & Exceptional Gifts",
+    "image": "/images/home/categoryEight.webp",
+    "items_visible": ["Premium humidors", "The World Is Yours collector box"],
+    "link": "/shop/rare-exceptional-gifts"
+  }
+]
